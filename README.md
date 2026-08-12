@@ -1,6 +1,5 @@
 # **PORTIFÓLIO GUSTAVO NUNES - 2022**
 
-![](./img/DESKTOP.png)
 
 ## [Clique aqui](https://nunesxntj.github.io/Portifolio/) para acessar o site
 
