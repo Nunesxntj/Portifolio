@@ -1,8 +1,8 @@
-# **PORTIFÓLIO VINICIUS NUNES - 2022**
+# **PORTIFÓLIO GUSTAVO NUNES - 2022**
 
 ![](./img/DESKTOP.png)
 
-## [Clique aqui](https://viniciusnunes137.github.io/portifolio/) para acessar o site
+## [Clique aqui](https://nunesxntj.github.io/Portifolio/) para acessar o site
 
 ## **SOBRE**
 
@@ -35,5 +35,5 @@
 
 ## **AUTOR**
 
-- [VINICIUS NUNES](https://github.com/VINICIUSNUNES137)
+- [GUSTAVO NUNES](https://github.com/Nunesxntj)
 
