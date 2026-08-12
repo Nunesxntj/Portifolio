@@ -1,92 +1,43 @@
 # Portfólio — Gustavo Nunes
 
-Portfólio profissional desenvolvido para apresentar minha trajetória, competências técnicas e principais projetos na área de desenvolvimento de sistemas.
+Portfólio profissional de Gustavo Nunes, desenvolvedor Front-End formado no curso Técnico em Desenvolvimento de Sistemas pela ETEC Antônio Furlan.
 
-## Acessar o portfólio
+## Site
 
-[Visualizar o site publicado](https://nunesxntj.github.io/Portifolio/)
+[Acessar o portfólio](https://nunesxntj.github.io/Portifolio/)
 
-## Sobre mim
+## Conceito
 
-Sou formado no curso Técnico em Desenvolvimento de Sistemas pela ETEC Antônio Furlan e busco consolidar minha carreira como desenvolvedor Front-End, utilizando também conhecimentos de back-end, bancos de dados e automação de processos.
+A experiência foi construída como uma narrativa visual sobre a passagem entre análise, design e desenvolvimento. O projeto combina tipografia expressiva, paleta neutra, mockups do E-PLANNER e microinterações ativadas pela rolagem.
 
-Minha experiência com Suporte Técnico contribuiu para o desenvolvimento de competências como análise, comunicação e resolução de problemas. Continuo aprimorando meus conhecimentos por meio de estudos e projetos práticos.
+## Projeto em destaque
 
-## Projetos apresentados
+### E-PLANNER
 
-### E-PLANNER Mobile
+Aplicativo de educação e controle financeiro com autenticação, categorização de despesas, orçamento mensal e dashboard. O portfólio também apresenta sua landing page institucional.
 
-Aplicativo de educação e controle financeiro desenvolvido para facilitar o gerenciamento de receitas, despesas e orçamento mensal.
+## Recursos do portfólio
 
-Principais recursos:
+- Carregamento animado
+- Revelações progressivas durante a rolagem
+- Alternância entre as perspectivas Visão e Código
+- Mockups responsivos construídos com HTML e CSS
+- Área técnica interativa com um trecho conceitual de código
+- Faixa animada de tecnologias
+- Adaptação para dispositivos móveis
+- Respeito à preferência de movimento reduzido do sistema
 
-* Autenticação de usuários
-* Cadastro e categorização de despesas
-* Controle de orçamento mensal
-* Dashboard com informações financeiras
-* Interface direcionada a usuários sem conhecimento financeiro avançado
+## Tecnologias
 
-Tecnologias relacionadas:
-
-* React Native
-* Node.js
-* MySQL
-* APIs REST
-
-### E-PLANNER Web
-
-Landing page institucional criada para apresentar a proposta, os recursos e os benefícios do aplicativo E-PLANNER.
-
-Tecnologias relacionadas:
-
-* React
-* Next.js
-* TypeScript
-* CSS
-
-## Tecnologias e competências
-
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* React
-* Next.js
-* React Native
-* Node.js
-* MySQL
-* Git e GitHub
-* UiPath
-
-## Características do portfólio
-
-* Layout responsivo
-* Navegação por seções
-* Design moderno e minimalista
-* Compatibilidade com dispositivos móveis
-* Publicação pelo GitHub Pages
+- HTML5
+- CSS3
+- JavaScript
 
 ## Executar localmente
 
-Clone o repositório:
-
-```bash
-git clone https://github.com/Nunesxntj/Portifolio.git
-```
-
-Entre na pasta:
-
-```bash
-cd Portifolio
-```
-
-Abra o arquivo `index.html` no navegador. Não é necessário instalar dependências para executar a versão publicada.
+Abra o arquivo `index.html` diretamente no navegador ou utilize a extensão Live Server no VS Code. Não é necessário instalar dependências para visualizar a versão do GitHub Pages.
 
 ## Contato
 
-* [LinkedIn](https://www.linkedin.com/in/gustavo-nunes-36292324b/)
-* [GitHub](https://github.com/Nunesxntj)
-
----
-
-Desenvolvido por Gustavo Nunes.
+- [LinkedIn](https://www.linkedin.com/in/gustavo-nunes-36292324b/)
+- [GitHub](https://github.com/Nunesxntj)
